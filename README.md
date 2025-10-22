@@ -3,20 +3,9 @@
 A modern, responsive **college complaint management system** built for FOSSHACK V1.0.  
 Students can submit complaints, and admins can manage, resolve, and track them easily — all in real time.
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
 
 > [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
+> AS THIS IS A DEMO PROJECT YOU CAN REGISTER AS ADMIN IN THE REAL WEB APP IT SHOULDN'T BE ALLOWED
 
 ---
 
@@ -103,6 +92,7 @@ VITE_ADMIN_EMAIL=admin@example.com
 This project is licensed under the MIT License.
 See the LICENSE
  file for details.
+
 
 
 
