@@ -53,7 +53,7 @@ src/
 
 # Clone repo
 ```
-git clone <repository-url>
+git clone https://github.com/CorruptedPhysco/College-FixIt-Final.git
 cd college-fixit
 ```
 # Install dependencies
@@ -88,5 +88,6 @@ VITE_ADMIN_EMAIL=admin@example.com
 This project is licensed under the MIT License.
 See the LICENSE
  file for details.
+
 
 
