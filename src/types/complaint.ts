@@ -6,6 +6,8 @@ export interface Complaint {
   description: string;
   status: 'pending' | 'resolved';
   createdAt: string;
+  userId?: string;
+  updatedAt?: string;
 }
 
 export type UserRole = 'student' | 'admin';

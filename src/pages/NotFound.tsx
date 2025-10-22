@@ -16,6 +16,9 @@ const NotFound = () => {
         <a href="/" className="text-blue-500 underline hover:text-blue-700">
           Return to Home
         </a>
+        <footer className="mt-12 text-center text-sm text-muted-foreground">
+          <p>Made by deepu for FOSSHACK V1.0</p>
+        </footer>
       </div>
     </div>
   );
